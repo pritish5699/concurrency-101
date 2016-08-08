@@ -6,11 +6,11 @@ http://tutorials.jenkov.com/java-concurrency/index.html
 I will also take useful notes and post it here.
 
 
-<b>History:</b><br/>
+#History:
 
 Back in old days,
-# Computer had a single CPU
-# Capable of only executing single program at a time.
-# Single CPU was shared between programs.
-# Operating System would switch between running program, and executing each of them for a little while before switching.
+* Computer had a single CPU
+* Capable of only executing single program at a time.
+* Single CPU was shared between programs.
+* Operating System would switch between running program, and executing each of them for a little while before switching.
 
